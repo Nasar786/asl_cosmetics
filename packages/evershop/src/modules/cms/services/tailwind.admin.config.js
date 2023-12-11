@@ -46,7 +46,7 @@ module.exports = {
       base: '.875rem'
     },
     colors: {
-      primary: '#008060',
+      primary: '#E26EE5',
       secondary: '#111213',
       surface: '#111213',
       onSurface: '#111213',
@@ -54,7 +54,7 @@ module.exports = {
       critical: '#d72c0d',
       warning: '#FFC453',
       highlight: '#5BCDDA',
-      success: '#008060',
+      success: '#E26EE5',
       decorative: '#FFC96B',
       border: '#8c9196',
       background: '#f6f6f7fc',

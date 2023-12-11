@@ -9,12 +9,13 @@ export default function FeaturedCategories() {
           <div className="text-center">
             <img src="/assets/homepage/banner/men-shoes.jpeg" alt="" />
           </div>
-          <h3 className="h4 uppercase mt-1 mb-1">Men shoes collection</h3>
+          <h3 className="h4 uppercase mt-1 mb-1">Jewelery collection</h3>
           <div className="mb-1">
             <p>
-              Constructed from luxury nylons, leathers, and custom hardware,
-              featuring sport details such as hidden breathing vents, waterproof
-              + antimicrobial linings, and more.
+            ASL Cosmetics' Jewelry Collection.
+            Our curated pieces reflect sophistication and style, offering a diverse range from classic to contemporary designs. 
+            From delicate necklaces to bold statement pieces, 
+            ASL Cosmetics Jewelry Collection is a celebration of beauty and craftsmanship.
             </p>
           </div>
           <Button url="/kids" title="Shop kids" variant="primary" />
@@ -23,12 +24,13 @@ export default function FeaturedCategories() {
           <div>
             <img src="/assets/homepage/banner/women-shoes.jpeg" alt="" />
           </div>
-          <h3 className="h4 uppercase mt-1 mb-1">Women shoes collection</h3>
+          <h3 className="h4 uppercase mt-1 mb-1">Skin Care collection</h3>
           <div className="mb-1">
             <p>
-              Constructed from luxury nylons, leathers, and custom hardware,
-              featuring sport details such as hidden breathing vents, waterproof
-              + antimicrobial linings, and more.
+            ASL Cosmetics introduces a luxurious range of skincare products meticulously crafted to enhance your natural beauty. 
+            Our skincare line blends science and nature, 
+            offering nourishing solutions that cater to various skin types
+            Experience the essence of self-care with ASL Cosmetics – where beauty meets wellness.
             </p>
           </div>
           <Button url="/women" title="Shop women" variant="primary" />
@@ -37,12 +39,14 @@ export default function FeaturedCategories() {
           <div>
             <img src="/assets/homepage/banner/kid-shoes.jpeg" alt="" />
           </div>
-          <h3 className="h4 uppercase mt-1 mb-1">Men shoes collection</h3>
+          <h3 className="h4 uppercase mt-1 mb-1">Makeup Collection</h3>
           <div className="mb-1">
             <p>
-              Constructed from luxury nylons, leathers, and custom hardware,
-              featuring sport details such as hidden breathing vents, waterproof
-              + antimicrobial linings, and more.
+            ASL Cosmetics presents a captivating Makeup Collection, 
+            curated for the modern, confident individual.
+            From vibrant eyeshadow palettes to long-lasting lip colors, 
+            each item is designed to inspire self-expression and enhance your unique features.
+            Elevate your beauty routine with our carefully curated.
             </p>
           </div>
           <Button url="/men" title="Shop men" variant="primary" />

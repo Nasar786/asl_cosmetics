@@ -58,7 +58,7 @@ module.exports = {
       critical: '#fa4545',
       warning: '#FFC453',
       highlight: '#5BCDDA',
-      success: '#008060',
+      success: '#E26EE5',
       decorative: '#FFC96B',
       border: '#8c9196',
       icon: '#5c5f62',

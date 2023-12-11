@@ -1,7 +1,7 @@
 {
   "name": "@evershop/sendgrid",
   "version": "1.0.0",
-  "description": "A SendGrid extension for EverShop.",
+  "description": "A SendGrid extension for .",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/evershopcommerce/evershop/tree/main/packages/sendgrid"

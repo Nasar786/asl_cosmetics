@@ -105,7 +105,7 @@ Footer.propTypes = {
 
 Footer.defaultProps = {
   themeConfig: {
-    copyRight: '© 2022 ASL COSMETICS. All Rights Reserved.'
+    copyRight: '© 2023 ASL COSMETICS. All Rights Reserved.'
   }
 };
 

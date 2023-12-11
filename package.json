@@ -29,7 +29,6 @@
     "lint": "eslint --fix --ext .js,.jsx .",
     "prepare": "husky install"
   },
-  
   "author": "The Nguyen (https://evershop.io)",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
@@ -59,4 +58,3 @@
     "@evershop/evershop": "^1.0.0-rc.8"
   }
 }
-

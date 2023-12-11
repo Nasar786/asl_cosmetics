@@ -82,8 +82,8 @@ export default function SaleStatistic({ api }) {
 					type="monotone"
 					dataKey="count"
 					stackId="1"
-					stroke="#82ca9d"
-					fill="#82ca9d"
+					stroke="#FF90BC"
+					fill="#FF90BC"
 				  />
 				</AreaChart>
 			</ResponsiveContainer>

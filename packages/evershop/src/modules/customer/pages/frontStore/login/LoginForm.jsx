@@ -15,7 +15,7 @@ export default function LoginForm({
   const [error, setError] = React.useState(null);
 
   return (
-    <div className="flex justify-center items-center">
+    <div className="flex justify-center items-center ">
       <div className="login-form flex justify-center items-center">
         <div className="login-form-inner">
           <h1 className="text-center">{_('Login')}</h1>
